@@ -7,6 +7,7 @@ Created the concept of ATM machine by using the Java language. After running thi
 
         | ATM NUMBER | PIN |
         |------------|-----|
+        | 406417| 5555 |
 
 ##Java features used:
 - **HashMap**: class which is used to perform operations such as inserting, deleting and locating elements in a map.
