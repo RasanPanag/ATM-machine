@@ -3,7 +3,7 @@
 ## General Concept:
 Created the concept of ATM machine by using the Java language. After running this code the user will have to add your ATM # and pin; if the given information is correct than it will let show the user the multiple selections where you can view your statement, deposit money, withdraw money, or view mini-statement. It is following concept of Object-Oriented Programming i.e. **Data abstraction**
 
-**There are two arrays used to store ATM # and pin #. Without correct ATM number and PIN, the code will not executed completely. The ATM # and PIN stored are given below: **
+**There are two arrays used to store ATM # and pin #. Without correct ATM number and PIN, the code will not executed completely. The ATM # and PIN stored are given below:**
 
 | ATM NUMBER | PIN |
 | --- | --- |
