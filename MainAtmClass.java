@@ -8,7 +8,7 @@ public class MainAtmClass {
 
 	}
 
-	// getter setter method 
+	// getter setter method
 public double getBalance() {
 	return balance;
 }
