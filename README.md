@@ -5,8 +5,8 @@ Created the concept of ATM machine by using the Java language. After running thi
 
 **There are two arrays used to store ATM # and pin #. Please feel free to use to execute the code**
 
-        | **ATM NUMBER** | **PIN** |
-        |----------------|---------|
+        | ATM NUMBER | PIN |
+        |------------|-----|
 
 ##Java features used:
 - **HashMap**: class which is used to perform operations such as inserting, deleting and locating elements in a map.
