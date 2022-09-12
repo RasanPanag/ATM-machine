@@ -3,13 +3,22 @@
 ## General Concept:
 Created the concept of ATM machine by using the Java language. After running this code you will have to add your ATM # and pin and if it is correct than it will let you the multiple selections where you can view your statement, deposit, withdraw, or view Ministatement.
 
-**There are two arrays used to store ATM # and pin #. Please feel free to use to execute the code**
+**There are two arrays used to store ATM # and pin #. Without correct ATM number and PIN, the code will not executed completely. The ATM # and PIN stored in code are given below: **
 
 | ATM NUMBER | PIN |
 | --- | --- |
 | 406417 | 5555 |
+| 656668 | 7777 |
+| 86689853 | 6666 |
+| 989898 | 8888 |
+| 5656656 | 9999 |
+| 575859 | 1313 |
+| 607080 | 4444 |
+| 9090100 | 1111 |
+| --- | --- |
 
-##Java features used:
+## Java features used:
+
 - **HashMap**: class which is used to perform operations such as inserting, deleting and locating elements in a map.
 - **Map**: an object that maps keys to values. A map cannot contain duplicate keys: Each key can map to at most one value. It models the mathematical function abstraction.  
 - **if else loop**: Use if to specify a block of code to be executed, if a specified condition is true. Use else to specify a block of code to be executed, if the same condition is false. Use else if to specify a new condition to test, if the first condition is false.  
@@ -22,3 +31,5 @@ Created the concept of ATM machine by using the Java language. After running thi
 - **implement**: keyword is used to implement an interface.  
 - **Scanner**: class is used to get user input, and it is found in the java.util package.  
 - **arrays**: a container object that holds a fixed number of values of a single type.
+- **Constructor**: a special method that is used to initialize objects. The constructor is called when an object of a class is created.  
+- **getter-setter method**: are used to protect your data, particularly when creating classes. For each instance variable, a getter method returns its value while a setter method sets or updates its value.  
